@@ -1,0 +1,14 @@
+
+Aplikacja do wymiany gier
+- Strona powitalna -zrobione
+- Lista moich gier -zrobione
+- Lista poszukiwanych przeze mnie gier -zrobione
+- Lista gier innych użytkowników z opcją wyszukiwania -zrobione
+- Szczegóły gry (swojej jak i innego użytkownika) -zrobione
+- Szczegóły innego użytkownika (lista jego gier x, gier poszukiwanych x, ocena, komentarze) - zrobione bez oceny i komentarzy
+
+- Opcja wymień grę (możliwa tylko jeśli inny użytkownik poszukuje gry, którą ja mam) - zrobiona logika tworzenia buttona do gry ktora jest poszukiwana w stosie moich gier
+
+- Dodawanie komentarza po transakcji -niezrobione
+- Dodawanie nowej gry -zrobione
+- Dodawanie nowej poszukiwanej gry -zrobione

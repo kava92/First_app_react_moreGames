@@ -1,0 +1,16 @@
+details:
+{…}
+
+    gender:
+    "M"
+    name:
+    "Jon Simmons"
+    wantedgames:
+    {…}
+        game1:
+        "FIFA 18"
+        game2:
+        "Resident Evil 7"
+
+index:
+"u1"
